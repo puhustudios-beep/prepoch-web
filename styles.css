@@ -115,7 +115,6 @@ h3 { font-size: 20px; letter-spacing: -0.012em; line-height: 1.25; }
   .arch:nth-child(4) { animation-delay: .18s; }
   @keyframes arch-in { from { opacity: 0; translate: 0 16px; } to { opacity: 1; translate: 0 0; } }
 }
-}
 
 /* Sections */
 .block { padding: clamp(56px, 8vw, 104px) 0; }
